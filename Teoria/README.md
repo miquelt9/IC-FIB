@@ -1,0 +1,19 @@
+## Apunts de IC
+- Aquí hi trobareu els enllaços cap als pdfs de les presentacions que ens va facilitar el professor del meu grup
+- Els apunts oficials de l'assignatura els trobareua a Atenea
+- Si en trobessiu algun de trencat obriu una issue
+--------------------------------------------------------------
+- Tema 0: [Introducció als Computadors](http://personals.ac.upc.edu/enricm/Docencia/IC/IC0.pdf)
+- Tema 2: [Representació dels nombres naturals](http://personals.ac.upc.edu/enricm/Docencia/IC/IC2.pdf)
+- Tema 3: [CLC (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC3a.pdf), [CLC (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC3b.pdf), [CLC (3)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC3c.pdf)
+- Tema 4: [Blocs aritmètics combinacionals per a naturals](http://personals.ac.upc.edu/enricm/Docencia/IC/IC4.pdf)
+- Tema 5: [Nombres enters](http://personals.ac.upc.edu/enricm/Docencia/IC/IC5.pdf)
+- Tema 6: [CLS (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC6a.pdf), [CLS (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC6b.pdf), [CLS (3)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC6c.pdf)
+- Tema 7: [PPE (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC7a.pdf), [PPE (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC7b.pdf)
+- Tema 8: [UPG (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC8a.pdf), [UPG (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC8b.pdf)
+- Tema 9: [Entrada/Sortida](http://personals.ac.upc.edu/enricm/Docencia/IC/IC9.pdf)
+- Tema 10: [Unitat Control General (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC10a.pdf), [Unitat Control General (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC10b.pdf)
+- Tema 11: [Memòria](http://personals.ac.upc.edu/enricm/Docencia/IC/IC11.pdf)
+- Tema 12: [Computadors Harvard unicicle i multicicle](http://personals.ac.upc.edu/enricm/Docencia/IC/IC12.pdf)
+- Tema 13: [SISC von Neumann (1)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC13a.pdf), [SISC von Neumann (2)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC13b.pdf), [SISC von Neumann (3)](http://personals.ac.upc.edu/enricm/Docencia/IC/IC13c.pdf)
+- Tema 14: [Llenguatge assembler SISA](http://personals.ac.upc.edu/enricm/Docencia/IC/IC14.pdf)
