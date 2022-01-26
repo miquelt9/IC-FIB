@@ -1,5 +1,6 @@
 ## Apunts de IC
-- Aquí hi trobareu els enllaços cap als pdfs que ens va facilitar el professor del meu grup
+- Aquí hi trobareu els enllaços cap als pdfs de les presentacions que ens va facilitar el professor del meu grup
+- Els apunts oficials de l'assignatura els trobareua a Atenea
 - Si en trobessiu algun de trencat obriu una issue
 --------------------------------------------------------------
 - Tema 0: [Introducció als Computadors](http://personals.ac.upc.edu/enricm/Docencia/IC/IC0.pdf)
