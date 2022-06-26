@@ -1,4 +1,11 @@
 # IC-FIB
+[![HitCount](https://hits.dwyl.com/miquelt9/IC-FIB.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/IC-FIB)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](/CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/IC-FIB.svg)](https://GitHub.com/miquelt9/IC-FIB/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/IC-FIB.svg)](https://GitHub.com/miquelt9/IC-FIB/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/IC-FIB.svg)](https://github.com/miquelt9/IC-FIB)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/IC-FIB.svg)](https://GitHub.com/miquelt9/IC-FIB/graphs/contributors/)
+
 - Pràctiques i presentacions de l'assignatura IC de la FIB
 - Qualsevol contribució és benvinguda (feu pull request o obriu una issue)
 - Disculpeu, li falta posar una mica d'ordre a aquest respositori (poc a poc)
